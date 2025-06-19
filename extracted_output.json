@@ -1,0 +1,10 @@
+{
+  "Document": "thai1001.pdf",
+  "Pages": [
+    {
+      "Page": 1,
+      "Error": "Expecting value: line 1 column 1 (char 0)",
+      "RawOutput": "```json\n{\n  \"ExtractedFields\": {\n    \"Customer Name\": { \"value\": \"บริษัท ปตท. สำรวจและผลิตปิโตรเลียม จำกัด (มหาชน)\" },\n    \"Document Number\": { \"value\": \"11947\" },\n    \"Document Date\": { \"value\": \"30 ม.ค 68\" },\n    \"Total Amount\": { \"value\": \"13,708.84\" }\n  }\n}\n```"
+    }
+  ]
+}

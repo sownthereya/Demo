@@ -1,0 +1,26 @@
+﻿Customer Name,Document Number,Document Date,Total Amount
+Error,"Failed to extract first JSON: No JSON object found in response text.
+Full response text: Bid Category: Insurance
+Bid Title: Request for Proposals (RFP) for Core Insurance System
+Project Description: Not Found
+Project Region: Sri Lanka
+Institution or Ministry (Bidder/Ministry/Institution name): Ceylinco Life Insurance Limited
+Submission Deadline: Not Found
+Budget/Amount: Not Found
+Contact Information: Not Found
+Publication Date: 28/06/2024
+Bid Requirements Summary (Bid conditions and requirements): Not Found
+Line of Business (e.g., Healthcare, Infrastructure, Technology, Energy, Transportation, etc.): Insurance
+Overall Confidence Score (from 0 to 100, estimate how confident you are in the accuracy of the extracted information): 90","Bid Category: Insurance
+Bid Title: Request for Proposals (RFP) for Core Insurance System
+Project Description: Not Found
+Project Region: Sri Lanka
+Institution or Ministry (Bidder/Ministry/Institution name): Ceylinco Life Insurance Limited
+Submission Deadline: Not Found
+Budget/Amount: Not Found
+Contact Information: Not Found
+Publication Date: 28/06/2024
+Bid Requirements Summary (Bid conditions and requirements): Not Found
+Line of Business (e.g., Healthcare, Infrastructure, Technology, Energy, Transportation, etc.): Insurance
+Overall Confidence Score (from 0 to 100, estimate how confident you are in the accuracy of the extracted information): 90
+",

@@ -1,0 +1,14 @@
+[
+  {
+    "page": 1,
+    "strategies": {
+      "region_based": {
+        "customer": "บริษัท ปตท.สผ. สยาม จำกัด",
+        "document_info": "```json\n{\"number\": null, \"date\": \"10 มกราคม 2568\"}\n```",
+        "totals": "1160.00"
+      },
+      "two_pass": "```json\n{\"customer_name\": \"บริษัท ปตท.สผ. สยาม จำกัด\", \"doc_number\": \"670125\", \"doc_date\": \"10 มกราคม 2568\", \"total_amount\": \"900.00\"}\n```",
+      "enhanced_spatial": "```json\n{\"customer_name\": \"บริษัท ปตท.สผ. สยาม จำกัด\", \"doc_number\": \"670125\", \"doc_date\": \"10 มกราคม 2568\", \"total_amount\": \"900.00\"}\n```"
+    }
+  }
+]
